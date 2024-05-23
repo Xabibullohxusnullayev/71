@@ -1,0 +1,10 @@
+Git hub bu versiyalar boshqaruvi hisoblanadi va bizni papkamizdagi jarayonlarni kuzatadi. Masalan biza html yozib olib h1 ochib
+keyin p tagi ochsak buni versiaylarini git hub boshqarib kuzatib boradi
+
+$git init
+$git add <file>    
+$git status 
+$git commit
+$git push
+$git pull
+$git clone
